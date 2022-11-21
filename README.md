@@ -8,8 +8,8 @@ And now that you know all this, let's go change the world.💻💪🏿
 
 <div align="center">
   <a href="https://github.com/Herco21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herco21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herco21&layout=compact&langs_count=7&theme=github_dark&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HercoZauZau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HercoZauZau&layout=compact&langs_count=7&theme=github_dark&langs_count=9"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
