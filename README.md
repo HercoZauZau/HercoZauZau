@@ -2,7 +2,7 @@
 
 👨🏿‍💻I am Hérco ZauZau. I am currently studying at Eduardo Mondlane University, Mozambique. I am a web developer and a big fan of Python, Javascript and their frameworks.
 
-And now that you know all this, let's go change the world.💻
+Now let's go change the world.💻
 
 ##
 
