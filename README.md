@@ -2,6 +2,9 @@
 
 ##
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hercozauzau&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
+##
+
 <div align="center">
     <a href="https://github.com/HercoZauZau">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HercoZauZau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
