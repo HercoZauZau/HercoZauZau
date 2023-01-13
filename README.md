@@ -8,8 +8,8 @@
 </div>
     
 <div align="">
-    <a href="https://github.com/HercoZauZau">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=HercoZauZau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<!--     <a href="https://github.com/HercoZauZau"> -->
+<!--     <img height="195em" src="https://github-readme-stats.vercel.app/api?username=HercoZauZau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
 <!--     <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HercoZauZau&layout=compact&langs_count=8&theme=github_dark&langs_count=8"/> -->
 </div>
 <br>
