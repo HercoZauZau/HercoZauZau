@@ -32,10 +32,11 @@ FrontEnd
 BackEnd/Programming
   <div style="display: inline_block">
     <img align="center" alt="nodejs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="express" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="express" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
     <img align="center" alt="wbpck" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
     <img align="center" alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="java" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+<!--     <img align="center" alt="npm" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> -->
   </div>
   
   ##
@@ -44,3 +45,9 @@ BackEnd/Programming
      <img align="center" alt="mysql" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
      <img align="center" alt="mongo" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   </div>
+    
+<!--   ##
+  Cloud
+  <div style="display: inline_block">
+     <img align="center" alt="mongo" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png">
+  </div> -->
