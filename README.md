@@ -2,10 +2,9 @@
 
 ##
 
-<div align="" style="width: 200em">
-    
-[![GitHub Streak](https://streak-stats.demolab.com?user=hercozauzau&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
-</div>
+<!-- <div align="" style="width: 200em"> -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=hercozauzau&theme=highcontrast&border_radius=5)](https://git.io/streak-stats) -->
+<!-- </div> -->
     
 <div align="">
 <!--     <a href="https://github.com/HercoZauZau"> -->
