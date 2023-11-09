@@ -1,3 +1,3 @@
-<div>
-  <img src="https://raw.githubusercontent.com/HercoZauZau/HercoZauZau/main/resources/Black%20Effect.png" alt="banner" />
+<div align="center">
+  <img src="https://i.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.webp" alt="banner" />
 </div>
