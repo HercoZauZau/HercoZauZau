@@ -1,5 +1,3 @@
-
 <div align="center">
-  <img src="resources/sobre.png"  alt="banner" /> 
-</div> 
-
+  <img width=800 height=500 src="https://i.giphy.com/HOmZcACWYNntC.webp" alt="banner" />  
+</div>
